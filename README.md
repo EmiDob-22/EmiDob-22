@@ -1,5 +1,5 @@
-### 👋 Hi, I'm Emil Piotr Dobkowski
-**Senior AI Architect | Quantum Systems Engineer | Solo Founder**
+### 👋 Hi, I'm MSc Eng. Emil Piotr Dobkowski
+**AI Architect Solo Founder**
 
 I build advanced AI/ML systems, quantum simulations, and high-entropy compression engines.
 
